@@ -12,7 +12,7 @@
 ## Team 3
 * SOMONNIAN Guillaume
 * HATAT Guillaume
-* +2
+* KARA Fatma
 
 
 ## Team 4
